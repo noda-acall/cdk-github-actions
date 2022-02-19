@@ -1,7 +1,7 @@
 name: cdk
 
 on:
-  puch:
+  push:
     branches:
       - master
 jobs:
